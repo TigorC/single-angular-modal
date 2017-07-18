@@ -37,3 +37,5 @@ src/single-angular-modal
 .idea
 *.ngfactory.ts
 
+# should this be ignored??
+package-lock.json

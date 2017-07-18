@@ -1,12 +1,12 @@
 {
-  "main": "bundles/single-angular-modal.umd.js",
-  "module": "esm/index.js",
-  "typings": "esm/index.d.ts",
-  "scripts": {},
-  "dependencies": {},
-  "peerDependencies": {
-    "@angular/core": "^4.0.0",
-    "@angular/common": "^4.0.0"
-  },
-  "devDependencies": {}
+    "main": "bundles/single-angular-modal.umd.js",
+    "module": "esm/index.js",
+    "typings": "esm/index.d.ts",
+    "scripts": {},
+    "dependencies": {},
+    "peerDependencies": {
+        "@angular/core": "^4.3.0",
+        "@angular/common": "^4.3.0"
+    },
+    "devDependencies": {}
 }

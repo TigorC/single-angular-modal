@@ -237,6 +237,3 @@ For developers building plugins the same rule apply on the 2nd parameter of the`
 
 <a name="1.0.0"></a>
 # [1.0.0](https://github.com/shlomiassaf/single-angular-modal/compare/f5a4135...1.0.0) (2016-05-10)
-
-
-
