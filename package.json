@@ -1,7 +1,7 @@
 {
-    "name": "single-angular-modal",
+    "name": "sq-single-angular-modal",
     "description": "Angular Modals",
-    "version": "3.1.0",
+    "version": "3.1.2",
     "repository": {
         "type": "git",
         "url": "https://github.com/singlemusic/single-angular-modal.git"
@@ -67,7 +67,7 @@
         "@angularclass/hmr-loader": "^3.0.2",
         "@types/hammerjs": "^2.0.28",
         "@types/node": "^7.0.0",
-        "@types/source-map": "^0.5.0",
+        "@types/source-map": "^0.5.7",
         "@types/uglify-js": "^2.0.27",
         "@types/webpack": "^2.2.1",
         "add-asset-html-webpack-plugin": "^2.0.1",

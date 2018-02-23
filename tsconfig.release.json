@@ -26,7 +26,6 @@
     "types": [
       "chai",
       "hammerjs",
-      "source-map",
       "uglify-js",
       "webpack"
     ]
